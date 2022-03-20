@@ -7,7 +7,7 @@ Here, we used Python, OpenCV, Keras(tensorflow) to build a system that can detec
 
 ## Setup
 To set the model up:<br />
-Pre-install all the required libraries 1) OpenCV<br />
+Pre-install all the required libraries <br />1) OpenCV<br />
                                        2) Keras<br />
                                        3) Numpy<br />
                                        4) Pandas<br />
@@ -17,10 +17,10 @@ Run the Jupyter Notebook and add the file name in detect_drowsiness.py line 20.<
 
 ## The Dataset
 The dataset which was used is a subnet of a dataset from(https://www.kaggle.com/datasets/dheerajperumandla/drowsiness-dataset)<br />
-it has 4 folder which are 1) Closed_eyes - having 726 pictures
-                          2) Open_eyes - having 726 pictures
-                          3) Yawn - having 725 pictures
-                          4) no_yawn - having 723 pictures
+it has 4 folder which are 1) Closed_eyes - having 726 pictures<br />
+                          2) Open_eyes - having 726 pictures<br />
+                          3) Yawn - having 725 pictures<br />
+                          4) no_yawn - having 723 pictures<br />
 
 ## The Convolution Neural Network
 
