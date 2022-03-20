@@ -7,11 +7,11 @@ Here, we used Python, OpenCV, Keras(tensorflow) to build a system that can detec
 
 ## Setup
 To set the model up:
-Pre-install all the required libraries 1) OpenCV__
-                                       2) Keras__
-                                       3) Numpy__
-                                       4) Pandas__
-                                       5) OS__
+Pre-install all the required libraries 1) OpenCV_
+                                       2) Keras_
+                                       3) Numpy_
+                                       4) Pandas_
+                                       5) OS_
                                        
 Run the Jupyter Notebook and add the file name in detect_drowsiness.py line 20.
 
