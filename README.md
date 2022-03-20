@@ -12,8 +12,8 @@ Pre-install all the required libraries <br />1) OpenCV<br />
                                        3) Numpy<br />
                                        4) Pandas<br />
                                        5) OS<br />
-                                       
-Run the Jupyter Notebook and add the file name in detect_drowsiness.py line 20.<br />
+Download the Dataset from the link given below and edit the address in the notebook accordingly.<br />
+Run the Jupyter Notebook and add the model name in detect_drowsiness.py file in line 20.<br />
 
 ## The Dataset
 The dataset which was used is a subnet of a dataset from(https://www.kaggle.com/datasets/dheerajperumandla/drowsiness-dataset)<br />
